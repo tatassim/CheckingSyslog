@@ -1,0 +1,38 @@
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.000000] Linux version 5.13.0-22-generic (buildd@lgw01-amd64-012) (gcc (Ubuntu 11.2.0-7ubuntu2) 11.2.0, GNU ld (GNU Binutils for Ubuntu) 2.37) #22-Ubuntu SMP Fri Nov 5 13:21:36 UTC 2021 (Ubuntu 5.13.0-22.22-generic 5.13.19)
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-5.13.0-22-generic root=UUID=650ead74-dd77-4c7f-a525-a07fef8f39e1 ro quiet splash
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.000000] KERNEL supported cpus:
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.000000]   Intel GenuineIntel
+--
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.435236] ACPI: Added _OSI(Processor Device)
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.435236] ACPI: Added _OSI(3.0 _SCP Extensions)
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.435237] ACPI: Added _OSI(Processor Aggregator Device)
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.435238] ACPI: Added _OSI(Linux-Dell-Video)
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.435238] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.435239] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.436202] ACPI: 2 ACPI AML tables successfully acquired and loaded
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.438026] ACPI: Interpreter enabled
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.438033] ACPI: (supports S0 S5)
+--
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.648100] usbcore: registered new interface driver usbfs
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.648105] usbcore: registered new interface driver hub
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.648107] usbcore: registered new device driver usb
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.648120] pps_core: LinuxPPS API ver. 1 registered
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.648121] pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.648122] PTP clock support registered
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.648140] EDAC MC: Ver: 3.0.0
+--
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.696882] ACPI: button: Sleep Button [SLPF]
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.697223] Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.701155] ACPI: battery: Slot [BAT0] (battery present)
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.701257] Linux agpgart interface v0.103
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.795923] loop: module loaded
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.796167] ata_piix 0000:00:01.1: version 2.13
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.803951] scsi host0: ata_piix
+--
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.869008] usb usb1: New USB device found, idVendor=1d6b, idProduct=0001, bcdDevice= 5.13
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.869011] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.869013] usb usb1: Product: OHCI PCI host controller
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.869014] usb usb1: Manufacturer: Linux 5.13.0-22-generic ohci_hcd
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.869015] usb usb1: SerialNumber: 0000:00:06.0
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.869186] hub 1-0:1.0: USB hub found
+Dec 20 00:17:26 tanya-VirtualBox kernel: [    0.869250] hub 1-0:1.0: 12 ports detected
